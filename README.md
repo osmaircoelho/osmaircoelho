@@ -29,11 +29,11 @@ Happy coding! 🚀
   </a>
 
  <a href="https://www.linkedin.com/in/osmaircoelho" target="_blank" style="text-decoration: none; white-space: nowrap" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration=''">
-    <img  alt="Linkedin Profile" height="28" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" style="">
+    <img alt="Linkedin Profile" height="28" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" style="">
   </a>
 
   <a href="https://pinkary.com/@osmair" target="_blank" style="text-decoration: none; white-space: nowrap" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration=''">
-    <img  alt="Pinkary Profile" height="27" width="28" src="https://pinkary.com/img/ico.svg" >
+    <img alt="Pinkary Profile" height="27" width="28" src="https://pinkary.com/img/ico.svg" >
   </a>
 
 </figure>
