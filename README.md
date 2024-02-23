@@ -19,9 +19,17 @@ Happy coding! 🚀
   <img align="center" alt="Osmair-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Osmair-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
- 
+
 #### Contact
- 
-<div> 
-  <a href = "mailto:osmair.coelho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+
+<div>
+  <a href="mailto:osmair.coelho@gmail.com" target="_blank" style="text-decoration: none; margin-right: 0px" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration=''">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" style="">
+  </a>
+  <a href="https://www.linkedin.com/in/osmaircoelho" target="_blank" style="text-decoration: none" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration=''">
+    <img  alt="Linkedin Profile" height="28" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" style="">
+  </a>
 </div>
+
+
+
