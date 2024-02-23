@@ -23,7 +23,8 @@ Happy coding! 🚀
 #### Contact
 
 
-<figure>
+<figure>  
+  
   <a href="mailto:osmair.coelho@gmail.com" target="_blank" style="text-decoration: none; white-space: nowrap; padding: 0" onmouseover="this.style.textDecoration='none'" onmouseout="this.style.textDecoration=''">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail">
   </a>
